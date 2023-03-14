@@ -11,6 +11,21 @@
   },
   "rules": {
     "no-console": "off",
+    "double": {
+      "quote": "\"",
+      "alternateQuote": "'",
+      "description": "doublequote"
+    },
+    "single": {
+      "quote": "'",
+      "alternateQuote": "\"",
+      "description": "singlequote"
+    },
+    "backtick": {
+      "quote": "`",
+      "alternateQuote": "\"",
+      "description": "backtick"
+    },
     "linebreak-style": "off"
   }
 }
