@@ -1,0 +1,33 @@
+{
+  "name": "dicoding-proyek-akhir-aplikasi-back-end-untuk-pemula-dengan-google-cloud",
+  "version": "1.0.0",
+  "description": "dicoding proyek akhir aplikasi backend untuk pemula dengan google cloud",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nelsensepta/Dicoding-Proyek-Akhir-Aplikasi-Back-End-untuk-Pemula-dengan-Google-Cloud.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backend"
+  ],
+  "author": "nelsen septa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nelsensepta/Dicoding-Proyek-Akhir-Aplikasi-Back-End-untuk-Pemula-dengan-Google-Cloud/issues"
+  },
+  "homepage": "https://github.com/nelsensepta/Dicoding-Proyek-Akhir-Aplikasi-Back-End-untuk-Pemula-dengan-Google-Cloud#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.0",
+    "nanoid": "^4.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.36.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "nodemon": "^2.0.21"
+  }
+}
